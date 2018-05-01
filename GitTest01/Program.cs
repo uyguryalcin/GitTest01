@@ -7,6 +7,7 @@ namespace GitTest01
         static void Main(string[] args)
         {
             Console.WriteLine("UYGUR BÜLENT YALÇIN");
+            Console.WriteLine("Demo project second line");
         }
     }
 }
